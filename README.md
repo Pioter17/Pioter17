@@ -1,6 +1,6 @@
 # Hello 👋
 
-My name is **Piotr Wiśniewski**
+My name is **Piotr Wiśniewski**  
 I'm currently studying **Applied Computer Science** at Warsaw University of Technology
 
 ---
