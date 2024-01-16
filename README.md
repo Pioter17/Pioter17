@@ -14,3 +14,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
 ### I am currently learning:
 
 🌱 **Angular**
+
+### Projects in which I am participating:
+
+- Salesman dashboard: https://github.com/sterenczakdawid/pgui-projekt  - Final project for one of university classes.
