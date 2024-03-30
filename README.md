@@ -17,4 +17,5 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
 
 ### Projects in which I participated:
 
-- Salesman dashboard: https://react-sales-dashboard.netlify.app/ - Final project for one of university classes. Repository: https://github.com/sterenczakdawid/pgui-projekt
+- Salesman dashboard: https://react-sales-dashboard.netlify.app/ - Final project for one of university classes.
+  Repository: https://github.com/sterenczakdawid/pgui-projekt
