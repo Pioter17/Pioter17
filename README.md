@@ -85,7 +85,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
   <br>
 
 - LoLMatch app: https://github.com/LoLMatch <br>
-  Group project for one of college classes. Our project is an application for finding partners to play League of Legends. It uses mechanisms similar to dating apps to match people based on their stats and preferences. We also offer a module to find teams, schedule meetings and chat with people. The entire team consists of 10 people, and 3 of us (including me) are managing the frontend part. <br>
+  Group project for one of college classes. Our project is an application for finding teammates to play League of Legends. It uses mechanisms similar to dating apps to match people based on their stats and preferences. We also offer a module to find teams, schedule meetings and chat with people. The entire team consists of 10 people, and 3 of us (including me) are managing the frontend part. <br>
   Technologies: Angular, Typescript, Material, Websockets, Java, Spring, Python, Docker, Keycloak, Figma, Jira. <br>
 
   <details>
