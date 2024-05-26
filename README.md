@@ -62,7 +62,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     <summary><b>Click to see short summary and images</b></summary>
     <br>
 
-    Login page <br>
+    Login page <br><br>
     ![Login](PGUI_images/login-page.png)
     <br>
 
