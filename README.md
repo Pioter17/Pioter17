@@ -20,7 +20,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
 - Movie app - https://github.com/Pioter17/PAMiW---Projekt <br>
   Application for CRUD operations with user authentication and request access protected with JWT. Other features: theme/language changing, roles on backend. More details in project's README.md file.<br>
   Technologies: Angular, Typescript, Java, Spring, JWT, Bootstrap, Blazor.
-  <br><br>
+  <br>
 
 - Notes app - https://github.com/Pioter17/ODAS---Projekt <br>
   Application for writing notes with some basic styling and saving them in the secured backend. Features: two factor authentication, writing public/private notes (private are protected with additional password), several safeguards, password strength check & other. Application is dockerized. More details in project's README.md file.<br>
