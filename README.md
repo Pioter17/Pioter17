@@ -1,9 +1,3 @@
-<style>
-  summary {
-    cursor: pointer;
-  }
-</style>
-
 # Hello 👋
 
 My name is **Piotr Wiśniewski**  
