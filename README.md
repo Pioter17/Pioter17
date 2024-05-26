@@ -62,7 +62,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     <summary><b>Click to see short summary and images</b></summary>
     <br>
 
-    Login page <br><br>
+    Login page 
     ![Login](PGUI_images/login-page.png)
     <br>
 
@@ -93,7 +93,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     <br>
     These images are from browser on desktop, but all views of application have their layout for phones too.<br><br>
 
-    Landing page
+    Landing page <br>
     ![Landing_page](LoLMatch_images/landing-page.png)
     <br><br>
 
