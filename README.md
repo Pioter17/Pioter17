@@ -92,45 +92,45 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     These images are from browser on desktop, but all views of application have their layout for phones too.<br><br>
 
     Landing page
-    ![Landing_page](LolMatch_images/landing-page.png)
+    ![Landing_page](LoLMatch_images/landing-page.png)
     <br><br>
 
     Post registration form - it sends the data to the backend. This information is needed for the matching module.
-    ![Post_registration_form](LolMatch_images/post-registration-form-1.png)
+    ![Post_registration_form](LoLMatch_images/post-registration-form-1.png)
     <br><br>
-    ![Post_registration_form](LolMatch_images/post-registration-form-2.png)
+    ![Post_registration_form](LoLMatch_images/post-registration-form-2.png)
     <br><br>
-    ![Post_registration_form](LolMatch_images/post-registration-form-3.png)
+    ![Post_registration_form](LoLMatch_images/post-registration-form-3.png)
     <br><br>
-    ![Post_registration_form](LolMatch_images/post-registration-form-4.png)
+    ![Post_registration_form](LoLMatch_images/post-registration-form-4.png)
     <br><br>
 
     Dashboard page - displays overall user info. 
-    ![Dashboard](LolMatch_images/dashboard.png)
+    ![Dashboard](LoLMatch_images/dashboard.png)
     <br><br>
 
     Topbar and sidebar - link to different parts of application.
-    ![Topbar](LolMatch_images/top-bar.png)
+    ![Topbar](LoLMatch_images/top-bar.png)
     <br><br>
-    ![Sidebar](LolMatch_images/sidebar.png)
+    ![Sidebar](LoLMatch_images/sidebar.png)
     <br><br>
 
     Chat - the biggest part I made. It uses websockets for connection with backend. Everything is updated immediately. It also features group chat.
-    ![Chat](LolMatch_images/chat-dashboard.png)
+    ![Chat](LoLMatch_images/chat-dashboard.png)
     <br><br>
-    ![Chat](LolMatch_images/chat-with-user.png)
+    ![Chat](LoLMatch_images/chat-with-user.png)
     <br><br>
     Phone view of chat with user <br>
-    ![Chat](LolMatch_images/chat-phone-view.png)
+    ![Chat](LoLMatch_images/chat-phone-view.png)
     <br><br>
     Contacts filter <br>
-    ![Contacts_filter](LolMatch_images/contacts-filter.png)
+    ![Contacts_filter](LoLMatch_images/contacts-filter.png)
     <br><br>
     Account page - fetches data from backend and allows user to change some part of it.
-    ![Account](LolMatch_images/account-page-1.png)
+    ![Account](LoLMatch_images/account-page-1.png)
     <br><br>
     ![Account](LolMatch_images/account-page-2.png)
     <br><br>
-    ![Account](LolMatch_images/account-page-3.png)
+    ![Account](LoLMatch_images/account-page-3.png)
     <br><br>
   </details>
