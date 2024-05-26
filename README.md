@@ -17,6 +17,10 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
 
 ## My projects
 
+<details>
+  <summary><b>Click to see</b></summary>
+  <br> 
+
 - Movie app - https://github.com/Pioter17/PAMiW---Projekt <br>
   Application for CRUD operations with user authentication and request access protected with JWT. Other features: theme/language changing, roles on backend. More details in project's README.md file.<br>
   Technologies: Angular, Typescript, Java, Spring, JWT, Bootstrap, Blazor.
@@ -41,9 +45,14 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
   Angular application for fictional hotel. It will feature user accounts, apartment reservations stored in database, and different views for user logged as admin (with ability to make some changes to the website). <br>
   Technologies: Angular, Typescript, Material, Firebase.
 
+</details>
 <br>
 
 ## Projects in which I participated:
+
+<details>
+  <summary><b>Click to see</b></summary>
+  <br>  
 
 - Salesman dashboard: https://github.com/sterenczakdawid/pgui-projekt <br>
   Final project for one of university classes. It was made in pairs using React. I did about half of the project. Application consists of user login, displaying different data based on different shop picked, and theme/language changing. We also used Figma to design layout and Enterprise Architect to make UML diagrams. For styles we used Tailwind.<br>
@@ -54,7 +63,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     <summary><b>Click to see short summary and images</b></summary>
     <br>
 
-    Login page
+    Login page <br>
     ![Login](PGUI_images/login-page.png)
     <br>
 
@@ -128,3 +137,5 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     ![Account](LoLMatch_images/account-page-3.png)
     <br><br>
   </details>
+
+</details>
