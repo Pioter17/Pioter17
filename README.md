@@ -46,7 +46,6 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
   Technologies: Angular, Typescript, Material, Firebase.
 
 </details>
-<br>
 
 ## Projects in which I participated:
 
