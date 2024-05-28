@@ -131,7 +131,7 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
     Account page - fetches data from backend and allows user to change some part of it.
     ![Account](LoLMatch_images/account-page-1.png)
     <br><br>
-    ![Account](LolMatch_images/account-page-2.png)
+    ![Account](LoLMatch_images/account-page-2.png)
     <br><br>
     ![Account](LoLMatch_images/account-page-3.png)
     <br><br>
