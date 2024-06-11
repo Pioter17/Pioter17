@@ -33,12 +33,13 @@ I'm currently studying **Applied Computer Science** at Warsaw University of Tech
 - Board games store app - https://github.com/Pioter17/Planszowo <br>
   Angular application for fictional board games store. It allows users to browse available games, use search filter, add products to cart, delete products from cart and fill in the order form. Board games are also fictional due to closure of the API I originally used. More details in project's README.md file.<br>
   Technologies: Angular, Typescript, Material. <br>
-  App is available here: https://planszowo.vercel.app/home
+  App is available here: https://planszowo.vercel.app
 
 - Games app - https://github.com/Pioter17/Projekt_dyplomowy <br>
   **(In development)** <br>
   Angular application with some logic/arcade games written in Typescript. For now there are: Minesweeper, Memory, Whack-a-mole and Mastermind. The main focus is on the visual part of the project. <br>
-  Technologies: Angular, Typescript, Material.
+  Technologies: Angular, Typescript, Material. <br>
+  App is available here: https://projekt-dyplomowy.vercel.app
 
 - Hotel app - https://github.com/Pioter17/Hotel <br>
   **(In development)** <br>
